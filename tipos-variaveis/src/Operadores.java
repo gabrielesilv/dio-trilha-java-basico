@@ -5,10 +5,6 @@ public class Operadores {
         String nomeCompleto = "LINGUAGEM" + " " + "JAVA";
         System.out.println(nomeCompleto);
 
- 
-        // Operadores de Atribuição
-        String nome = "Leonardo";
-
   
         // Operadores Ternários
         int a, b;
