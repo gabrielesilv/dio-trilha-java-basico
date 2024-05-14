@@ -19,7 +19,7 @@ public class Main {
 
     static void c(){
         System.out.println("Entrou no método c.");
-        Thread.dumpStack(); //stacktracy
+        Thread.dumpStack(); //stacktrace
         System.out.println("Finalizou o método c.");
     }
 }
