@@ -1,3 +1,4 @@
+package estadosbr;
 public enum EstadoBrasileiro {
     SAO_PAULO ("SP","São Paulo", 11),
 	RIO_JANEIRO ("RJ", "Rio de Janeiro", 12),
